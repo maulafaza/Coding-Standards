@@ -5,26 +5,25 @@ Coding Style Guide
 
 - 1.1 **Status**: *optional*
 - 1.2 **Description**:  You're free to choose the variation. But in terms of how many spaces (or tabs) constitutes indentation, it's **more important to be consistent** throughout your code than to use any specific tab stop value.
-- **Variations**
+- 1.3 **Variations**
   + **Tab for indentation, tab for alignment**
-    - (+): *You save a lot of bytes.*
-    - (-): *A tab could be a different number of columns depending on your environment/ editor, but a space is always one column.*
+    - (+) *You save a lot of bytes.*
+    - (-) *A tab could be a different number of columns depending on your environment/ editor, but a space is always one column.*
   +  **Space for indentation, space for alignment**
-  - (+): *Your codes become neat in whatever environment/ editor. So, team-interchange should not be a problem.*
-  - (-): Cons: *This will increase the bytes of your file.*
+    - (+) *Your codes become neat in whatever environment/ editor. So, team-interchange should not be a problem.*
+    - (-) Cons: *This will increase the bytes of your file.*
   + **Tab for indentation, space for alignment**
- - (+): *Balance between bytes-saving & code cleanness.*
- - (-): (Tobe defined)
+   - (+) *Balance between bytes-saving & code cleanness.*
+   - (-) (Tobe defined)
 
 ### 2. Variable Naming
 
-> status: **requirement**
-
-Most of team use underscore (`_`) for variable naming.
+- 2.1 **Status**: *requirement*
+- 2.2 **Description**: Most of the team use underscore (`_`) for variable naming.
 
 ### 3. Namespacing
 
-> status: **optional**
+- status: **optional**
 
 WordPress seems doesn't campaign the usage of namespacing. You can follow [PSR-1](http://www.php-fig.org/psr/psr-1/) if you want.
 
