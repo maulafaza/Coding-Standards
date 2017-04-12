@@ -9,7 +9,7 @@
   3. [Namespacing](#namespacing)
   4. [Class Naming](#class-naming)
   5. [Method Naming](#method-naming)
-  6. [Method & Property Scopes](#method-&-property-scopes)
+  6. [Method & Property Scopes](#method--property-scopes)
   7. [Function Naming](#function-naming)
   8. [Braces Style](#braces-style)
   9. [Commenting](#commenting)
