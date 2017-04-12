@@ -8,16 +8,16 @@ Coding Style Guide
 You're free to choose the variation. But in terms of how many spaces (or tabs) constitutes indentation, it's **more important to be consistent** throughout your code than to use any specific tab stop value.
 
 1. **Tab for indentation, tab for alignment**
-**Pros**: *You save a lot of bytes.*
-**Cons**: *A tab could be a different number of columns depending on your environment/ editor, but a space is always one column.*
+  **Pros**: *You save a lot of bytes.*
+  **Cons**: *A tab could be a different number of columns depending on your environment/ editor, but a space is always one column.*
 
 2. **Space for indentation, space for alignment**
-**Pros**: *Your codes become neat in whatever environment/ editor. So, team-interchange should not be a problem.*
-**Cons**: *This will increase the bytes of your file.*
+  **Pros**: *Your codes become neat in whatever environment/ editor. So, team-interchange should not be a problem.*
+  **Cons**: *This will increase the bytes of your file.*
 
 3. **Tab for indentation, space for alignment**
-**Pros**: *Balance between bytes-saving & code cleanness.*
-**Cons**: (Tobe defined)
+  **Pros**: *Balance between bytes-saving & code cleanness.*
+  **Cons**: (Tobe defined)
 
 ### 2. Variable Naming
 
