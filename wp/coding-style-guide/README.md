@@ -1,6 +1,6 @@
 # Coding Style Guide
 
-*WordPress & PHP style guide for **Born Digital** team*
+*WordPress & PHP coding style guide for Born Digital team*
 
 ## Table of Contents
 
