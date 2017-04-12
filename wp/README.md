@@ -3,18 +3,18 @@ WordPress & PHP
 
 #### Guide list
 
- * [Coding Style Guide](https://github.com/FrisseBlikken/tree/master/wp/)
- * [Plugin Creation](https://github.com/FrisseBlikken/tree/master/wp/)
- * [Component Creation](https://github.com/FrisseBlikken/tree/master/wp/)
- * [Component Usage](https://github.com/FrisseBlikken/tree/master/wp/)
- * [Framework Usage](https://github.com/FrisseBlikken/tree/master/wp/)
- * [Template Creation](https://github.com/FrisseBlikken/tree/master/wp/)
- * [Template Placement](https://github.com/FrisseBlikken/tree/master/wp/)
- * [Global Distributions](https://github.com/FrisseBlikken/tree/master/wp/)
- * [Enqueue Placement](https://github.com/FrisseBlikken/tree/master/wp/)
- * [WordPress Functions Usage](https://github.com/FrisseBlikken/tree/master/wp/)
- * [Page Speed Guide](https://github.com/FrisseBlikken/tree/master/wp/)
- * [Security Guide](https://github.com/FrisseBlikken/tree/master/wp/)
+ * [Coding Style Guide](https://github.com/contactjavas/tree/master/wp/coding-style-guide/)
+ * [Plugin Creation](https://github.com/contactjavas/tree/master/wp/plugin-creation/)
+ * [Component Creation](https://github.com/contactjavas/tree/master/wp/component-creation/)
+ * [Component Usage](https://github.com/contactjavas/tree/master/wp/component-usage/)
+ * [Framework Usage](https://github.com/contactjavas/tree/master/wp/framework-usage/)
+ * [Template Creation](https://github.com/contactjavas/tree/master/wp/template-creation/)
+ * [Template Placement](https://github.com/contactjavas/tree/master/wp/template-placement/)
+ * [Global Distributions](https://github.com/contactjavas/tree/master/wp/global-distributions/)
+ * [Enqueue Placement](https://github.com/contactjavas/tree/master/wp/enqueue-placement/)
+ * [WordPress Functions Usage](https://github.com/contactjavas/tree/master/wp/wordpress-functions-usage)
+ * [Page Speed Guide](https://github.com/contactjavas/tree/master/wp/page-speed-guide/)
+ * [Security Guide](https://github.com/contactjavas/tree/master/wp/security-guide/)
 
 #### References
 
