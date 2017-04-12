@@ -22,6 +22,8 @@
 
  You're free to choose the variation. But in terms of how many spaces (or tabs) constitutes indentation, it's **more important to be consistent** throughout your code than to use any specific tab stop value.
 
+Variations:
+
 - Tab for indentation, tab for alignment
   + (+) You save a lot of bytes.
   + (-) A tab could be a different number of columns depending on your environment/ editor, but a space is always one column.
