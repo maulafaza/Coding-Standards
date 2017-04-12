@@ -18,7 +18,7 @@
 
 ### Indentation
 
-status: **optional**
+<small>status: **optional**</small>
 
  You're free to choose the variation. But in terms of how many spaces (or tabs) constitutes indentation, it's **more important to be consistent** throughout your code than to use any specific tab stop value.
 
