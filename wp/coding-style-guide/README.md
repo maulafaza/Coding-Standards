@@ -7,41 +7,36 @@ Coding Style Guide
 
 You're free to choose the variation. But in terms of how many spaces (or tabs) constitutes indentation, it's **more important to be consistent** throughout your code than to use any specific tab stop value.
 
-#### Variation 1: *Tab for indentation, tab for alignment*
+Variations:
 
-Pros:
+1. **Tab for indentation, tab for alignment**
+  Pros:
 
-- You save a lot of bytes.
+  - You save a lot of bytes.
 
-Cons:
+  Cons:
 
-- A tab could be a different number of columns depending on your environment/ editor, but a space is always one column.
+  - A tab could be a different number of columns depending on your environment/ editor, but a space is always one column.
 
-#### Variation 2: *Space for indentation, space for alignment*
+2. **Space for indentation, space for alignment**
 
-Pros:
+  Pros:
+  - Your codes become neat in whatever environment/ editor. So, team-interchange should not be a problem.
+  - This will increase the bytes of your file.
 
-- Your codes become neat in whatever environment/ editor. So, team-interchange should not be a problem.
+3. **Tab for indentation, space for alignment**
 
-Cons:
+  Pros:
+  - Balance between bytes-saving & code cleanness.
 
-- This will increase the bytes of your file.
-
-#### Variation 3: *Tab for indentation, space for alignment*
-
-Pros:
-
-- Balance between bytes-saving & code cleanness.
-
-Cons:
-
-- (tobe defined)
+  Cons:
+  - (tobe defined)
 
 ## 2. Variable Naming
 
 > status: **requirement**
 
-Most of team use underscore (`_`) for variable naming as used in WordPress & CodeIgniter.
+Most of team use underscore (`_`) for variable naming.
 
 ## 3. Namespacing
 
@@ -69,11 +64,11 @@ Following method naming, function name must uses underscore (`_`) style like `fu
 
 ## 7. Braces Style
 
-> status: **Optional**
+> status: **optional**
 
 You're free to choose the variation. You can follow either WordPress or [PSR-2](http://www.php-fig.org/psr/psr-2/) style.
 
-#### Variation 1
+#### Variation 1:
 
 ```
 if ( condition ) {
@@ -90,7 +85,7 @@ function the_function( $param ) {
 
 ```
 
-#### Variation 2
+#### Variation 2:
 
 ```
 if (condition) {
@@ -109,6 +104,6 @@ function the_function($param) {
 
 ## 7. Code Commenting
 
-> status: **Requirement**
+> status: **requirement**
 
-Always comment on un-clear/ ambiguos code. This will help you to maintain your project and help another to understand your code.
+Always comment on un-clear/ ambiguos code. This will help you in maintaining the project and help the others to understand your code.
