@@ -16,7 +16,8 @@
 
 ## Contents
 
-### Indentation <sup>status: **optional**</sup>
+### Indentation
+<sup>status: **optional**</sup>
 
  You're free to choose the variation. But in terms of how many spaces (or tabs) constitutes indentation, it's **more important to be consistent** throughout your code than to use any specific tab stop value.
 
