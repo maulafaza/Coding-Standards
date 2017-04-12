@@ -1,8 +1,6 @@
-### WordPress & PHP
+## WordPress & PHP
 
----
-
-#### Guide list
+### Guide list
 
  * [Coding Style Guide](https://github.com/contactjavas/tree/master/wp/)
  * [Plugin Creation](https://github.com/contactjavas/tree/master/wp/)
@@ -17,7 +15,7 @@
  * [Page Speed Guide](https://github.com/contactjavas/tree/master/wp/)
  * [Security Guide](https://github.com/contactjavas/tree/master/wp/)
 
-#### References
+### References
 
  * [WordPress](https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/) Wordpres's PHP coding standards.
  * [PHP-FIG](http://www.php-fig.org/psr/) PHP Standards Recommendations.
