@@ -44,25 +44,25 @@ Most of the team use underscore (`_`) for variable naming.
 
 <sup>status: **optional**</sup>
 
-WordPress seems doesn't campaign the usage of namespacing. You can follow [PSR-1](http://www.php-fig.org/psr/psr-1/) if you want.
+WordPress seems like didn't campaign the usage of namespace. You can follow [PSR-1](http://www.php-fig.org/psr/psr-1/) if you want.
 
 ### Class Naming
 
 <sup>status: **requirement**</sup>
 
-Due to team convention, we can use `Class_Name` as used in WordPress core.
+Due to team convention, we can use `Class_Name` style as used in WordPress core.
 
 ### Method Naming
 
 <sup>status: **requirement**</sup>
 
-Following the class naming, method name must uses underscore (`_`) style like `class_method_name` as used in WordPress & CodeIgniter.
+Following the class naming, method name must uses underscore (`_`) style like `class_method_name` as used in WordPress.
 
 ### Function Naming
 
 <sup>status: **requirement**</sup>
 
-Following method naming, function name must uses underscore (`_`) style like `function_name` as used in WordPress & CodeIgniter.
+Following the method naming, function name must uses underscore (`_`) style like `function_name` as used in WordPress.
 
 ### Braces Style
 
@@ -104,8 +104,8 @@ function the_function($param) {
 
 ```
 
-### Code Commenting
+### Commenting
 
 <sup>status: **requirement**</sup>
 
-Always comment on un-clear/ ambiguos code. This will help you in maintaining the project and help the others to understand your code.
+Always comment on unclear/ ambiguos code. This will help you in maintaining the project and it will help the others to understand your code.
