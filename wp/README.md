@@ -3,18 +3,18 @@ WordPress & PHP
 
 ### Guide list
 
- * [Coding Style Guide](https://github.com/contactjavas/tree/master/wp/)
- * [Plugin Creation](https://github.com/contactjavas/tree/master/wp/)
- * [Component Creation](https://github.com/contactjavas/tree/master/wp/)
- * [Component Usage](https://github.com/contactjavas/tree/master/wp/)
- * [Framework Usage](https://github.com/contactjavas/tree/master/wp/)
- * [Template Creation](https://github.com/contactjavas/tree/master/wp/)
- * [Template Placement](https://github.com/contactjavas/tree/master/wp/)
- * [Global Distributions](https://github.com/contactjavas/tree/master/wp/)
- * [Enqueue Placement](https://github.com/contactjavas/tree/master/wp/)
- * [WordPress Functions Usage](https://github.com/contactjavas/tree/master/wp/)
- * [Page Speed Guide](https://github.com/contactjavas/tree/master/wp/)
- * [Security Guide](https://github.com/contactjavas/tree/master/wp/)
+ * [Coding Style Guide](https://github.com/FrisseBlikken/tree/master/wp/)
+ * [Plugin Creation](https://github.com/FrisseBlikken/tree/master/wp/)
+ * [Component Creation](https://github.com/FrisseBlikken/tree/master/wp/)
+ * [Component Usage](https://github.com/FrisseBlikken/tree/master/wp/)
+ * [Framework Usage](https://github.com/FrisseBlikken/tree/master/wp/)
+ * [Template Creation](https://github.com/FrisseBlikken/tree/master/wp/)
+ * [Template Placement](https://github.com/FrisseBlikken/tree/master/wp/)
+ * [Global Distributions](https://github.com/FrisseBlikken/tree/master/wp/)
+ * [Enqueue Placement](https://github.com/FrisseBlikken/tree/master/wp/)
+ * [WordPress Functions Usage](https://github.com/FrisseBlikken/tree/master/wp/)
+ * [Page Speed Guide](https://github.com/FrisseBlikken/tree/master/wp/)
+ * [Security Guide](https://github.com/FrisseBlikken/tree/master/wp/)
 
 ### References
 
