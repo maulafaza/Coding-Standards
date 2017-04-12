@@ -1,57 +1,74 @@
-Coding Style Guide
-===
+# Coding Style Guide
+
+*WordPress & PHP style guide for **Born Digital** team*
+
+## Table of Contents
+
+  1. [Indentation](#indentation)
+  2. [Variable Naming](#variable-naming)
+  3. [Namespacing](#namespacing)
+  4. [Class Naming](#class-naming)
+  5. [Method Naming](#method-naming)
+  6. [Function Naming](#function-naming)
+  7. [Braces Style](#braces-style)
+  8. [Commenting](#commenting)
+
+
+## Contents
 
 ### 1. Indentation
 
-- 1.1 **Status**: *optional*
-- 1.2 **Description**:  You're free to choose the variation. But in terms of how many spaces (or tabs) constitutes indentation, it's **more important to be consistent** throughout your code than to use any specific tab stop value.
-- 1.3 **Variations**
-  + **Tab for indentation, tab for alignment**
-    - (+) *You save a lot of bytes.*
-    - (-) *A tab could be a different number of columns depending on your environment/ editor, but a space is always one column.*
-  +  **Space for indentation, space for alignment**
-    - (+) *Your codes become neat in whatever environment/ editor. So, team-interchange should not be a problem.*
-    - (-) Cons: *This will increase the bytes of your file.*
-  + **Tab for indentation, space for alignment**
-   - (+) *Balance between bytes-saving & code cleanness.*
-   - (-) (Tobe defined)
+status: **optional**
+
+ You're free to choose the variation. But in terms of how many spaces (or tabs) constitutes indentation, it's **more important to be consistent** throughout your code than to use any specific tab stop value.
+
+- Tab for indentation, tab for alignment
+  + (+) You save a lot of bytes.
+  + (-) A tab could be a different number of columns depending on your environment/ editor, but a space is always one column.
+- Space for indentation, space for alignment
+  + (+) Your codes become neat in whatever environment/ editor. So, team-interchange should not be a problem.
+  + (-) This will increase the bytes of your file.
+- Tab for indentation, space for alignment
+  + (+) Balance between bytes-saving & code cleanness.
+  + (-) (Tobe defined)
 
 ### 2. Variable Naming
 
-- 2.1 **Status**: *requirement*
-- 2.2 **Description**: Most of the team use underscore (`_`) for variable naming.
+status: **requirement**
+
+Most of the team use underscore (`_`) for variable naming.
 
 ### 3. Namespacing
 
-- status: **optional**
+status: **optional**
 
 WordPress seems doesn't campaign the usage of namespacing. You can follow [PSR-1](http://www.php-fig.org/psr/psr-1/) if you want.
 
 ### 4. Class Naming
 
-> status: **requirement**
+status: **requirement**
 
 Due to team convention, we can use `Class_Name` as used in WordPress core.
 
 ### 5. Method Naming
 
-> status: **requirement**
+status: **requirement**
 
 Following the class naming, method name must uses underscore (`_`) style like `class_method_name` as used in WordPress & CodeIgniter.
 
 ### 6. Function Naming
 
-> status: **requirement**
+status: **requirement**
 
 Following method naming, function name must uses underscore (`_`) style like `function_name` as used in WordPress & CodeIgniter.
 
 ### 7. Braces Style
 
-> status: **optional**
+status: **optional**
 
 You're free to choose the variation. You can follow either WordPress or [PSR-2](http://www.php-fig.org/psr/psr-2/) style.
 
-**Variation 1**:
+**variation 1**:
 
 ```
 if ( condition ) {
@@ -68,7 +85,7 @@ function the_function( $param ) {
 
 ```
 
-**Variation 2**:
+**variation 2**:
 
 ```
 if (condition) {
@@ -85,8 +102,8 @@ function the_function($param) {
 
 ```
 
-### 7. Code Commenting
+### 8. Code Commenting
 
-> status: **requirement**
+status: **requirement**
 
 Always comment on un-clear/ ambiguos code. This will help you in maintaining the project and help the others to understand your code.
