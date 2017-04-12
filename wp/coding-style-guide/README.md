@@ -95,23 +95,6 @@ Following the class naming, method name must uses underscore (`_`) style like `c
 <?php
 class Fetch_Message
 {
-    public function get($msg_id)
-    {
-        // code
-    }
-}
-```
-
-### Method Naming
-
-<sup>status: **requirement**</sup>
-
-Following the class naming, method name must uses underscore (`_`) style like `class_method_name` as used in WordPress. It could be like this:
-
-```
-<?php
-class Fetch_Message
-{
     public function by_id($msg_id)
     {
         // code
@@ -137,6 +120,19 @@ class Fetch_Message
     {
         // code
     }
+}
+```
+
+### Function Naming
+
+<sup>status: **requirement**</sup>
+
+Following the method naming, function name must uses underscore (`_`) style like `function_name` as used in WordPress. It could be like this:
+
+```
+<?php
+function get_message() {
+    // code
 }
 ```
 
