@@ -46,25 +46,25 @@ WordPress seems doesn't campaign the usage of namespacing. You can follow [PSR-1
 
 ### Class Naming
 
-status: **requirement**
+<sup>status: **requirement**</sup>
 
 Due to team convention, we can use `Class_Name` as used in WordPress core.
 
 ### Method Naming
 
-status: **requirement**
+<sup>status: **requirement**</sup>
 
 Following the class naming, method name must uses underscore (`_`) style like `class_method_name` as used in WordPress & CodeIgniter.
 
 ### Function Naming
 
-status: **requirement**
+<sup>status: **requirement**</sup>
 
 Following method naming, function name must uses underscore (`_`) style like `function_name` as used in WordPress & CodeIgniter.
 
 ### Braces Style
 
-status: **optional**
+<sup>status: **optional**</sup>
 
 You're free to choose the variation. You can follow either WordPress or [PSR-2](http://www.php-fig.org/psr/psr-2/) style.
 
@@ -104,6 +104,6 @@ function the_function($param) {
 
 ### Code Commenting
 
-status: **requirement**
+<sup>status: **requirement**</sup>
 
 Always comment on un-clear/ ambiguos code. This will help you in maintaining the project and help the others to understand your code.
