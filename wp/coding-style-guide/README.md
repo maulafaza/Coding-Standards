@@ -34,13 +34,13 @@
 
 ### Variable Naming
 
-status: **requirement**
+> <sup>status: **requirement**</sup>
 
 Most of the team use underscore (`_`) for variable naming.
 
 ### Namespacing
 
-status: **optional**
+> <sup>status: **optional**</sup>
 
 WordPress seems doesn't campaign the usage of namespacing. You can follow [PSR-1](http://www.php-fig.org/psr/psr-1/) if you want.
 
