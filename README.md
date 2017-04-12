@@ -1,5 +1,4 @@
 Born Digital Coding Standards
-
 ===
 
 ### Coding standards including coding style guide for Born Digital team.
