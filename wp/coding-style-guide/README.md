@@ -75,6 +75,7 @@ You're free to choose the variation. You can follow either WordPress or [PSR-2](
 
 #### Variation 1
 
+```
 if ( condition ) {
     // code
 }
@@ -90,6 +91,7 @@ function the_function( $param ) {
 ```
 
 #### Variation 2
+
 ```
 if (condition) {
     // code
