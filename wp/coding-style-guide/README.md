@@ -18,7 +18,7 @@
 
 ### Indentation
 
-> <sup>status: **optional**</sup>
+<sup>status: **optional**</sup>
 
  You're free to choose the variation. But in terms of how many spaces (or tabs) constitutes indentation, it's **more important to be consistent** throughout your code than to use any specific tab stop value.
 
@@ -34,13 +34,13 @@
 
 ### Variable Naming
 
-> <sup>status: **requirement**</sup>
+<sup>status: **requirement**</sup>
 
 Most of the team use underscore (`_`) for variable naming.
 
 ### Namespacing
 
-> <sup>status: **optional**</sup>
+<sup>status: **optional**</sup>
 
 WordPress seems doesn't campaign the usage of namespacing. You can follow [PSR-1](http://www.php-fig.org/psr/psr-1/) if you want.
 
