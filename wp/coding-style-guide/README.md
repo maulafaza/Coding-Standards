@@ -10,18 +10,19 @@ You're free to choose the variation. But in terms of how many spaces (or tabs) c
 Variations:
 
 1. **Tab for indentation, tab for alignment**
-  Pros:
 
+  Pros:
   - You save a lot of bytes.
 
   Cons:
-
   - A tab could be a different number of columns depending on your environment/ editor, but a space is always one column.
 
 2. **Space for indentation, space for alignment**
 
   Pros:
   - Your codes become neat in whatever environment/ editor. So, team-interchange should not be a problem.
+
+  Cons:
   - This will increase the bytes of your file.
 
 3. **Tab for indentation, space for alignment**
