@@ -16,7 +16,7 @@
 
 ## Contents
 
-### 1. Indentation
+### Indentation
 
 status: **optional**
 
@@ -32,37 +32,37 @@ status: **optional**
   + (+) Balance between bytes-saving & code cleanness.
   + (-) (Tobe defined)
 
-### 2. Variable Naming
+### Variable Naming
 
 status: **requirement**
 
 Most of the team use underscore (`_`) for variable naming.
 
-### 3. Namespacing
+### Namespacing
 
 status: **optional**
 
 WordPress seems doesn't campaign the usage of namespacing. You can follow [PSR-1](http://www.php-fig.org/psr/psr-1/) if you want.
 
-### 4. Class Naming
+### Class Naming
 
 status: **requirement**
 
 Due to team convention, we can use `Class_Name` as used in WordPress core.
 
-### 5. Method Naming
+### Method Naming
 
 status: **requirement**
 
 Following the class naming, method name must uses underscore (`_`) style like `class_method_name` as used in WordPress & CodeIgniter.
 
-### 6. Function Naming
+### Function Naming
 
 status: **requirement**
 
 Following method naming, function name must uses underscore (`_`) style like `function_name` as used in WordPress & CodeIgniter.
 
-### 7. Braces Style
+### Braces Style
 
 status: **optional**
 
@@ -102,7 +102,7 @@ function the_function($param) {
 
 ```
 
-### 8. Code Commenting
+### Code Commenting
 
 status: **requirement**
 
