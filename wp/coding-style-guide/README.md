@@ -21,7 +21,7 @@
   15. [Method & Property Scopes](#method--property-scopes)
   16. [Function Naming](#function-naming)
   17. [Commenting](#commenting)
-  18. [Readibility, Maintainability](readibility-maintainability)
+  18. [Readibility, Maintainability](#readibility-maintainability)
 
 
 ## Contents
@@ -70,10 +70,15 @@ If you consider such a long block unavoidable, please put a short comment at the
 > In case you would omit the braces, please do it carefully. You can omit the braces as long as it's **still nicely readable**.
 
 ```
-// simple conditional
+// simple conditional with single/ multi statements
+if (condition) {
+    //
+}
+
+// simple conditional with single statement
 if (condition) // code
 
-// simple conditional
+// simple conditional with single statement (be careful!)
 if (condition)
     // code
 
@@ -90,11 +95,11 @@ if (condition) {
 You can use the alternative syntax for *Control Structures* (e.g. `if`/`endif`, `while`/`endwhile`)—especially in your templates where PHP code is embedded within HTML, for instance:
 ```
 <?php if (have_posts()) : ?>
-	<ul>
-	    <?php while (have_post()) : the_post(); ?>
-		    <li><?php the_content(); ?></li>
-	    <?php endwhile; ?>
-	</ul>
+    <ul>
+        <?php while (have_post()) : the_post(); ?>
+            <li><?php the_content(); ?></li>
+        <?php endwhile; ?>
+    </ul>
 <?php endif; ?>
 ```
 
