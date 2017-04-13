@@ -28,7 +28,7 @@
 
 ### PHP Tags
 
-<sup>Status: **requirement** - Following WordPress: **no**</sup>
+<sup>Status: **requirement** | Following WordPress: **no**</sup>
 
 Opening tags MUST use the long tags `<?php ?>` while variable echo MUST use short-echo `<?= $var ?>` or `<?=$var?>`
 
@@ -58,8 +58,7 @@ Below are some of the variations:
 
 ### Braces Style
 
-<sup>Status: **optional**
-Following WordPress: **partially**</sup>
+<sup>Status: **optional** | Following WordPress: **partially**</sup>
 
 if you have a really long block, consider whether it can be broken into two or more shorter blocks or functions.
 
@@ -101,9 +100,7 @@ You can use the alternative syntax for *Control Structures* (e.g. `if`/`endif`, 
 
 ### Ternary Operator
 
-<sup>Status: **optional**
-Following WordPress: **yes**
-</sup>
+<sup>Status: **optional** | Following WordPress: **yes**</sup>
 
 Ternary operators are fine, but always have them test if the statement is true, not false. Otherwise, it just gets confusing.
 
@@ -119,9 +116,7 @@ $skin = $user_role === 'admin' ? 'dark' : 'light';
 
 ### Conditional Style
 
-<sup>Status: **recommendation**
-Following WordPress: **yes**
-</sup>
+<sup>Status: **recommendation** | Following WordPress: **yes**</sup>
 
 The keyword `elseif` SHOULD be used instead of `else if` so that all control keywords look like single words.
 
@@ -137,15 +132,13 @@ Some peoples would like to follow this, but some others are not comfortable with
 
 ### Files
 
-<sup>Status: **requirement**
-Following WordPress: **yes**</sup>
+<sup>Status: **requirement** | Following WordPress: **yes**</sup>
 
 The closing `?>` tag MUST be omitted from files containing only PHP/ *non-direct-outputting*.
 
 ### Lines
 
-<sup>Satus: **requirement**
-Following WordPress: **yes**</sup>
+<sup>Satus: **requirement** | Following WordPress: **yes**</sup>
 
 There MUST NOT be trailing whitespace at the end of non-blank lines. Remove trailing whitespace at the end of each line of code.
 
@@ -153,8 +146,7 @@ There MUST NOT be trailing whitespace at the end of non-blank lines. Remove trai
 
 #### On Operators
 
-<sup>Status: **requirement**
-Following WordPress: **partially**</sup>
+<sup>Status: **requirement** | Following WordPress: **partially**</sup>
 
 ALWAYS put spaces after commas, and on both sides of logical, comparison, string and assignment operators. Except for *negation*, you are FREE to use `! $condition` or `!$condition`:
 
@@ -234,8 +226,7 @@ function ($param) {
 
 ### Variable Naming
 
-<sup>status: **requirement**
-Following WordPress: **yes**</sup>
+<sup>status: **requirement** | Following WordPress: **yes**</sup>
 
 Most of the team use underscore (`_`) for dividing words in variable naming. So, underscore MUST be used to divide words instead of using `camelCase` style.
 
@@ -275,8 +266,7 @@ class Tool
 
 ### Class Naming
 
-<sup>status: **requirement**
-Following WordPress: **yes**</sup>
+<sup>status: **requirement** | Following WordPress: **yes**</sup>
 
 Due to team convention and WordPres's nature, class MUST uses `Class_Name` style in an *internal component/ module* that is not a *composer-package*. Here is how it looks like:
 ```
@@ -292,8 +282,7 @@ class Inbox_Utility
 
 ### Method Naming
 
-<sup>status: **requirement**
-Following WordPress: **yes**</sup>
+<sup>status: **requirement** | Following WordPress: **yes**</sup>
 
 Following the class naming, method name MUST uses underscore (`_`) style like `class_method_name` in an *internal component/ module* that is not a *composer-package*. It looks like this:
 
@@ -331,8 +320,7 @@ class Submit_Message
 
 ### Function Naming
 
-<sup>status: **requirement**
-Following WordPress: **yes**</sup>
+<sup>status: **requirement** | Following WordPress: **yes**</sup>
 
 Following the method naming, function name MUST uses underscore (`_`) style like `function_name` as used in WordPress. It could be like this:
 
