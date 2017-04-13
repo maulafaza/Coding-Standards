@@ -28,9 +28,7 @@
 
 ### PHP Tags
 
-<sup>Status: **requirement**
-Following WordPress: **no**
-</sup>
+<sup>Status: **requirement** | Following WordPress: **no**</sup>
 
 Opening tags MUST use the long tags `<?php ?>` while variable echo MUST use short-echo `<?= $var ?>` or `<?=$var?>`
 
