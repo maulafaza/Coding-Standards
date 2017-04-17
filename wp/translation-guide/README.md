@@ -11,7 +11,7 @@
 
 <sup>Status: **optional**</sup>
 
-It's BETTER to use *translation* feature than manually translating every words into specific language. We just setup once, then the project manager will be able to translate texts without worrying about editing the same *php* file.
+It's BETTER to use *translation* feature than manually translating every words into specific language. We setup once, then the project manager will be able to translate words without worrying about editing the same *php* file.
 
 Some rerefences:
 - [Getting translated string](https://developer.wordpress.org/reference/functions/__/)
