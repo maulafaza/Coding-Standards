@@ -18,4 +18,4 @@ For efficiency, plugin SHOULD NOT depend on other plugins.
 
 <sup>Status: **recommendation**</sup>
 
-When creating plugin **for the team**, please make sure it focuses on it's purpose. This will keep the plugin *lean*, so that team could use plugin they only need.
+When creating plugin **for the team**, please make sure it focuses on it's purpose. This will keep the plugin *lean*, so that we can use the needed only.
