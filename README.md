@@ -15,4 +15,4 @@ WordPress already has own [complete standards](https://codex.wordpress.org/WordP
 
  * Idea, issue, & discussion: please submit issue
  * Pull request if you want to contribute about: code, word, formatting, & even language corrections
- * Before submitting issue/ discussion, please make sure you've read [WordPress Coding Standard](https://codex.wordpress.org/WordPress_Coding_Standards) also modern standard such as [PHP-FIG](http://www.php-fig.org/psr/) & [PHP The Right Way](http://www.phptherightway.com/)
+ * Before submitting issue/ discussion, please make sure you've read [WordPress Coding Standard](https://codex.wordpress.org/WordPress_Coding_Standards) and modern standard such as [PHP-FIG](http://www.php-fig.org/psr/) & [PHP The Right Way](http://www.phptherightway.com/)
