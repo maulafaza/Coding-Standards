@@ -11,7 +11,7 @@
 
 <sup>Status: **optional**</sup>
 
-You are FREE to use the variation of component/ module creation: *class, statical, or function* interface.
+You are FREE to use the variation: *class, statical, or function* interface.
 
 In case you prefer to *function* interface, it's better to put a *prefix* to the name. For example:
 
