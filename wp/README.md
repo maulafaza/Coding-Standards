@@ -6,7 +6,6 @@ WordPress & PHP
  * [Coding Style Guide](https://github.com/contactjavas/Coding-Standards/tree/master/wp/coding-style-guide/)
  * [Plugin Creation](https://github.com/contactjavas/Coding-Standards/tree/master/wp/plugin-creation/)
  * [Component Creation](https://github.com/contactjavas/Coding-Standards/tree/master/wp/component-creation/)
- * [Component Usage](https://github.com/contactjavas/Coding-Standards/tree/master/wp/component-usage/)
  * [Framework Usage](https://github.com/contactjavas/Coding-Standards/tree/master/wp/framework-usage/)
  * [Template Creation](https://github.com/contactjavas/Coding-Standards/tree/master/wp/template-creation/)
  * [Template Placement](https://github.com/contactjavas/Coding-Standards/tree/master/wp/template-placement/)
