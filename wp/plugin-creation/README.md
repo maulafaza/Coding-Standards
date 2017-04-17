@@ -12,7 +12,7 @@
 
 <sup>Status: **recommendation**</sup>
 
-Plugin SHOULD NOT depend on other plugins to make it easy to add and remove.
+For efficiency, plugin SHOULD NOT depend on other plugins.
 
 ### One Plugin for One Business
 
