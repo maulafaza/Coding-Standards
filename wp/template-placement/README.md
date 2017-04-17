@@ -12,7 +12,7 @@
 
 <sup>Status: **optional**</sup>
 
-You are FREE to choose the variations.
+You are FREE to choose the variation.
 
 ### Variations
 
