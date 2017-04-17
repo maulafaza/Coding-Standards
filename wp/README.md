@@ -12,7 +12,7 @@ WordPress & PHP
  * [Global Distributions](https://github.com/contactjavas/Coding-Standards/tree/master/wp/global-distributions/)
  * [Enqueue Placement](https://github.com/contactjavas/Coding-Standards/tree/master/wp/enqueue-placement/)
  * [WordPress Functions Usage](https://github.com/contactjavas/Coding-Standards/tree/master/wp/wordpress-functions-usage)
- * [Translations Usage](https://github.com/contactjavas/Coding-Standards/tree/master/wp/translations-usage)
+ * [Translation Guide](https://github.com/contactjavas/Coding-Standards/tree/master/wp/translation-guide)
  * [Page Speed Guide](https://github.com/contactjavas/Coding-Standards/tree/master/wp/page-speed-guide/)
 
 #### References
