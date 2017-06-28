@@ -20,6 +20,6 @@ WordPress already has own [complete standards](https://codex.wordpress.org/WordP
 
  #### Todos:
 
- * [ ] Adding security standards
- * [ ] Adding frontend standards (css & js)
- * [ ] Adding page speed guide
+ * [ ] Add security standards
+ * [ ] Add frontend standards (css & js)
+ * [ ] Add page speed guide
