@@ -38,6 +38,11 @@ Opening tags MUST use the long tags `<?php ?>` while variable echo MUST use shor
 
 You are FREE to follow or don't follow [WordPress quotes guide](https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/#single-and-double-quotes).
 
+```
+echo '<a href="#" title="Link Title">Link name</a>';
+echo "<a href='$link' title='$linktitle'>$linkname</a>";
+```
+
 ### Indentation
 
 <sup>Status: **optional**</sup>
@@ -117,6 +122,8 @@ Ternary operators are fine, but always have them test if the statement is true, 
 $skin = ($user_role === 'admin') ? 'dark' : 'light';
 
 $skin = $user_role === 'admin' ? 'dark' : 'light';
+
+// (if statement is false) ? (do this) : (else, do this);
 ```
 
 ### Conditional Style
@@ -134,6 +141,12 @@ WordPress also said that `else if` is not compatible with the colon syntax for `
 WordPress advices [Yoda Conditions](https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/#yoda-conditions) which you're FREE to use it or not.
 
 Some peoples would like to follow this, but some others are not comfortable with this, due to *strange-readibility*.
+
+```
+if ( 'admin' == $user_role ) {
+    //you have access
+}
+```
 
 ### Files
 
