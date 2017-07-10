@@ -1,3 +1,3 @@
 # Security Guide
 
-*Born Digital's security guide*
+*Born Digital's security guideline*
