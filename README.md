@@ -5,11 +5,11 @@ WordPress already has own [complete standards](https://codex.wordpress.org/WordP
 
 #### List of conventions:
 
- * [WordPress & PHP](https://github.com/contactjavas/Coding-Standards/tree/master/wp/)
- * [JavaScript](https://github.com/contactjavas/Coding-Standards/tree/master/js/)
- * [CSS](https://github.com/contactjavas/Coding-Standards/tree/master/css/)
- * [Security](https://github.com/contactjavas/Coding-Standards/tree/master/security/)
- * [Page Speed](https://github.com/contactjavas/Coding-Standards/tree/master/wp/page-speed/)
+ * [WordPress & PHP](https://github.com/greenoss/Coding-Standards/tree/master/wp/)
+ * [JavaScript](https://github.com/greenoss/Coding-Standards/tree/master/js/)
+ * [CSS](https://github.com/greenoss/Coding-Standards/tree/master/css/)
+ * [Security](https://github.com/greenoss/Coding-Standards/tree/master/wp/security)
+ * [Page Speed](https://github.com/greenoss/Coding-Standards/tree/master/wp/page-speed/)
 
 #### Contribution:
 
