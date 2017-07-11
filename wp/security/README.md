@@ -2,4 +2,4 @@
 
 *Born Digital's security guideline*
 
-Added test add more text
+Added test add more texts
