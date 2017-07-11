@@ -2,6 +2,11 @@
 
 *Born Digital's security guideline*
 
-Pull pull pull pull!
-new from handoko
-a
+Pull pull pull pull! :)
+
+asdsilhfs
+f
+sdf
+sd
+fsd
+f
