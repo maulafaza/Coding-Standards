@@ -6,8 +6,9 @@ WordPress already has own [complete standards](https://codex.wordpress.org/WordP
 #### List of conventions:
 
  * [WordPress & PHP](https://github.com/greenoss/Coding-Standards/tree/master/wp/)
- * [JavaScript](https://github.com/greenoss/Coding-Standards/tree/master/js/)
+ * [HTML](https://github.com/greenoss/Coding-Standards/tree/master/html)
  * [CSS](https://github.com/greenoss/Coding-Standards/tree/master/css/)
+ * [JavaScript](https://github.com/greenoss/Coding-Standards/tree/master/js/)
  * [Security](https://github.com/greenoss/Coding-Standards/tree/master/wp/security/)
  * [Page Speed](https://github.com/greenoss/Coding-Standards/tree/master/wp/page-speed/)
 
