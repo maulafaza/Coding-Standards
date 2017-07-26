@@ -70,22 +70,26 @@ if you have a really long block, consider whether it can be broken into two or m
 If you consider such a long block unavoidable, please put a short comment at the end so people can tell at glance what that ending brace ends – typically this is appropriate for a logic block, longer than about 35 rows, but any code that’s not intuitively obvious can be commented.
 
 > **Shorthand conditional:**
-> WordPress advices to always use the braces even when they're not required. *You can follow/ don't follow this advice.*
+> WordPress advices to always use the braces even when they're not required.
 >
-> In case you would omit the braces, please do it carefully. You can omit the braces as long as it's **still nicely readable**.
+>*Please follow that advice.*
 
+##### Don't do this:
+```
+// conditional for single statement using multilines but without braces
+if (condition)
+    // code
+```
+
+##### You may use these:
 ```
 // simple conditional with single/ multi statements
 if (condition) {
     //
 }
 
-// simple conditional with single statement
+// inline conditional with single statement
 if (condition) // code
-
-// simple conditional with single statement (be careful!)
-if (condition)
-    // code
 
 // longer conditional
 if (condition) {
@@ -97,7 +101,7 @@ if (condition) {
 }
 
 ```
-You can use the alternative syntax for *Control Structures* (e.g. `if`/`endif`, `while`/`endwhile`)—especially in your templates where PHP code is embedded within HTML, for instance:
+You can also use the alternative syntax for *Control Structures* (e.g. `if`/`endif`, `while`/`endwhile`)—especially in your templates where PHP code is embedded within HTML, for instance:
 ```
 <?php if (have_posts()) : ?>
     <ul>
