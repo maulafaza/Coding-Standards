@@ -1,5 +1,7 @@
 # HTML
 
+*HTML guideline including tag usage, commenting, etc.*
+
 ## Table of Contents
 
   1. [Rule 1](#rule-1)
