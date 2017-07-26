@@ -74,14 +74,14 @@ If you consider such a long block unavoidable, please put a short comment at the
 >
 >*Please follow that advice.*
 
-#### Don't do this:
+##### Don't do this:
 ```
 // conditional for single statement using multilines but without braces
 if (condition)
     // code
 ```
 
-#### You may use these:
+##### You may use these:
 ```
 // simple conditional with single/ multi statements
 if (condition) {
