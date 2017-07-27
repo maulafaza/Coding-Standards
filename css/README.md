@@ -14,12 +14,10 @@ CSS
  * [Boolean attributes](https://github.com/greenoss/Coding-Standards/tree/master/css/boolean-attributes/)
  * [Nesting in Less and Sass](https://github.com/greenoss/Coding-Standards/tree/master/css/nesting-in-less-and-sass/)
  * [Operators in Less and Sass](https://github.com/greenoss/Coding-Standards/tree/master/css/operators-in-less-and-sass/)
- * [Declaration order](https://github.com/greenoss/Coding-Standards/tree/master/css/declaration-order/)
  * [Comments](https://github.com/greenoss/Coding-Standards/tree/master/css/comments/)
  * [Class names](https://github.com/greenoss/Coding-Standards/tree/master/css/class-names/)
  * [Selectors](https://github.com/greenoss/Coding-Standards/tree/master/css/selectors/)
  * [Organization](https://github.com/greenoss/Coding-Standards/tree/master/css/organization/)
- * [Selectors](https://github.com/greenoss/Coding-Standards/tree/master/css/selectors/)
  * [Editor preferences](https://github.com/greenoss/Coding-Standards/tree/master/css/editor-preferences/)
 
 #### References:

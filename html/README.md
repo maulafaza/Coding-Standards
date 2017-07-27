@@ -10,7 +10,7 @@ HTML
  * [Character encoding](https://github.com/greenoss/Coding-Standards/tree/master/html/character-encoding/)
  * [CSS and JavaScript includes](https://github.com/greenoss/Coding-Standards/tree/master/html/css-and-javascript-includes/)
  * [Practicality over purity](https://github.com/greenoss/Coding-Standards/tree/master/html/practicality-over-purity/)
- * [attribute order](https://github.com/greenoss/Coding-Standards/tree/master/html/attribute-order/)
+ * [Attribute order](https://github.com/greenoss/Coding-Standards/tree/master/html/attribute-order/)
  * [Boolean attributes](https://github.com/greenoss/Coding-Standards/tree/master/html/boolean-attributes/)
  * [Reducing markup](https://github.com/greenoss/Coding-Standards/tree/master/html/reducing-markup/)
  * [JavaScript generated markup](https://github.com/greenoss/Coding-Standards/tree/master/html/javaScript-generated-markup/)
