@@ -15,7 +15,7 @@ HTML
  * [Reducing markup](https://github.com/greenoss/Coding-Standards/tree/master/html/reducing-markup/)
  * [JavaScript generated markup](https://github.com/greenoss/Coding-Standards/tree/master/html/javaScript-generated-markup/)
 
-#### References:
+#### References
 
  * [WordPress HTML Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/html/)
  * [Code Guide by @mdo](http://codeguide.co/#html)
