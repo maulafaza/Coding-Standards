@@ -21,3 +21,10 @@ Explain your rule here
 <sup>Status: **recommendation**</sup>
 
 Explain your rule here
+
+
+## References:
+
+ * [WordPress CSS Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/)
+ * [A mostly reasonable approach to CSS and Sass by airbnb](https://github.com/airbnb/css)
+ * [Code Guide by @mdo](http://codeguide.co/#css)

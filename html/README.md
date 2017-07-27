@@ -21,3 +21,8 @@ Explain your rule here
 <sup>Status: **requirement**</sup>
 
 Explain your rule here
+
+## References:
+
+ * [WordPress HTML Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/html/)
+ * [Code Guide by @mdo](http://codeguide.co/#html)
