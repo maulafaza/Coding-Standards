@@ -11,7 +11,7 @@ With these standards, at least we can:
 So that we can achieve our goals:
  * Uniformity
  * Compatability between the project-developers and projects
- * Same standard means: easy to maintain, creator does not have to maintain
+ * Same standard - easy to maintain, creator does not have to maintain
  * Code is tighty, tidy
  * Professional – big companies, should be as professional as professional
  * Less mistakes
