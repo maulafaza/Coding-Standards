@@ -1,7 +1,7 @@
 Born Digital Coding Standards
 ===
 
-WordPress already has own [complete standards](https://codex.wordpress.org/WordPress_Coding_Standards) that cover *PHP, HTML, CSS, and JavaScript*. But we're open to other's coding standards. It raises some *point of view* which is interesting to be discussed.
+WordPress already has own [complete standards](https://codex.wordpress.org/WordPress_Coding_Standards) that cover *PHP, HTML, CSS, and JavaScript*. But we're open to other's coding standards. It makes us open-minded and even give us better style :)
 
 With these standards, at least we can:
  * Unify coding styles
