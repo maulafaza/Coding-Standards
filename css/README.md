@@ -20,8 +20,8 @@ CSS
  * [Organization](https://github.com/greenoss/Coding-Standards/tree/master/css/organization/)
  * [Editor preferences](https://github.com/greenoss/Coding-Standards/tree/master/css/editor-preferences/)
 
-#### References:
+#### References
 
  * [WordPress CSS Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/)
- * [A mostly reasonable approach to CSS and Sass by airbnb](https://github.com/airbnb/css)
+ * [A mostly reasonable approach to CSS and Sass by Airbnb](https://github.com/airbnb/css)
  * [Code Guide by @mdo](http://codeguide.co/#css)
