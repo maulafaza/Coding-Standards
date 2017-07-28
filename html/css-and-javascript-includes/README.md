@@ -24,10 +24,10 @@ HTML5 spec links
 
 ```
 <!-- External CSS --> 
+```
+```
 <link rel="stylesheet" href="code-guide.css">
-```
 
-```
 <!-- In-document CSS -->
 <style>
   /* ... */
