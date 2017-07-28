@@ -10,9 +10,10 @@
 
 ### Reducing Markup
 
-Whenever possible, avoid superfluous parent elements when writing HTML. Many times this requires iteration and refactoring, but produces less HTML. Take the following example:
-
 <sup>Status: **unnder discussion** </sup>
+
+@MDO: 
+Whenever possible, avoid superfluous parent elements when writing HTML. Many times this requires iteration and refactoring, but produces less HTML. Take the following example:
 
 ```
 <!-- Not so great -->
