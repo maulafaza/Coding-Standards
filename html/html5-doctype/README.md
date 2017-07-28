@@ -1,4 +1,4 @@
-# Coding Style Guide
+# HTML5 doctype
 
 *HTML HTML5 doctype guide for Born Digital team*
 
