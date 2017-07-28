@@ -1,6 +1,6 @@
 # Selectors
 
-*CSS shorthand notation guide for Born Digital team*
+*CSS Selectors notation guide for Born Digital team*
 
 ## Selectors
 
