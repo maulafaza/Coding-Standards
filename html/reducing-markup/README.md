@@ -10,7 +10,7 @@
 
 ### Reducing Markup
 
-<sup>Status: **under discussion** </sup>
+<sup>Status: **under discussion** | Following WordPress: **no** </sup>
 
 <a href="http://codeguide.co/#html-reducing-markup">@MDO:</a> <br>
 Whenever possible, avoid superfluous parent elements when writing HTML. <br>
