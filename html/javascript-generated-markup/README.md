@@ -12,7 +12,7 @@
 
 <sup>Status: **under discussion** </sup>
 
-<a href="http://codeguide.co/#html-javascript">@MDO:</a> <br>
+[@mdo:](http://codeguide.co/#html-javascript) <br>
 Writing markup in a JavaScript file makes the content harder to find, harder to edit, and less performant. <br>
 Avoid it whenever possible.
  
