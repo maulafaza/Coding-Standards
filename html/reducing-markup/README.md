@@ -12,7 +12,7 @@
 
 <sup>Status: **under discussion** | Following WordPress: **no** </sup>
 
-<a href="http://codeguide.co/#html-reducing-markup">@MDO:</a> <br>
+[@mdo:](http://codeguide.co/#html-reducing-markup) <br>
 Whenever possible, avoid superfluous parent elements when writing HTML. <br>
 Many times this requires iteration and refactoring, but produces less HTML. <br>
 Take the following example:
