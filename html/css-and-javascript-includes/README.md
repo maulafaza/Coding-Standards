@@ -1,6 +1,6 @@
-# Coding Style Guide
+# CSS and JavaScript Includes
 
-*HTML => CSS and JavaScript includes guide for Born Digital team*
+*HTML CSS and JavaScript includes guide for Born Digital team*
 
 ## Table of Contents
 
