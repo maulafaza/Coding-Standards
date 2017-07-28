@@ -12,7 +12,7 @@
 
 <sup>Status: **under discussion** </sup>
 
-<b> @MDO: </b>
+<a href="http://codeguide.co/#html">@MDO:</a> <br>
 Whenever possible, avoid superfluous parent elements when writing HTML. <br>
 Many times this requires iteration and refactoring, but produces less HTML. <br>
 Take the following example:
