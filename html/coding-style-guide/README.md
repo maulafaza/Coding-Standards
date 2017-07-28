@@ -6,7 +6,9 @@
 
   1. [HTML Tags](#html-tags)
   2. [Self-closing Elements](#self-closing-elements)
-  3. [Attributes and Tags](attributes-and-tags)
+  3. [Attributes and Tags](#attributes-and-tags)
+  4. [Quotes](#quotes)
+  5. [Indentation](#indentation)
 
 
 ## Contents
@@ -24,6 +26,7 @@
 <li> Don’t omit optional closing tags (e.g. &lt;/li&gt; or &lt;/body&gt;). </li>
 </ul>
 
+
 ### Self-closing Elements
 
 <sup>Status: **under discussion**</sup>
@@ -38,6 +41,7 @@ rather than the compact but incorrect:
 <br/>;
 ```
 The W3C specifies that a single space should precede the self-closing slash [(source)](https://www.w3.org/TR/xhtml1/#C_2).
+
 
 ### Attributes and Tags
 
@@ -55,6 +59,69 @@ For humans:
 ```
 <a href="http://example.com/" title="Description Here">Example.com</a>
 ```
+
+### Quotes
+
+<sup>Status: **under discussion**</sup>
+
+According to the W3C specifications for XHTML, all attributes must have a value, and must use double- or single-quotes (source). The following are examples of proper and improper usage of quotes and attribute/value pairs.
+
+Correct:
+
+```
+<input type="text" name="email" disabled="disabled" />
+<input type='text' name='email' disabled='disabled' />
+```
+
+Incorrect:
+
+```
+<input type=text name=email disabled>
+```
+
+In HTML, attributes do not all have to have values, and attribute values do not always have to be quoted. While all of the examples above are valid HTML, failing to quote attributes can lead to security vulnerabilities. Always quote attributes.
+
+
+
+### Indentation
+
+<sup>Status: **under discussion**</sup>
+
+As with PHP, HTML indentation should always reflect logical structure. Use tabs and not spaces.
+
+When mixing PHP and HTML together, indent PHP blocks to match the surrounding HTML code. Closing PHP blocks should match the same indentation level as the opening block.
+
+Correct:
+
+```
+<?php if ( ! have_posts() ) : ?>
+    <div id="post-1" class="post">
+        <h1 class="entry-title">Not Found</h1>
+        <div class="entry-content">
+            <p>Apologies, but no results were found.</p>
+            <?php get_search_form(); ?>
+        </div>
+    </div>
+<?php endif; ?>
+```
+
+Incorrect:
+
+```
+        <?php if ( ! have_posts() ) : ?>
+        <div id="post-0" class="post error404 not-found">
+            <h1 class="entry-title">Not Found</h1>
+            <div class="entry-content">
+            <p>Apologies, but no results were found.</p>
+<?php get_search_form(); ?>
+            </div>
+        </div>
+<?php endif; ?>
+```
+
+
+
+
 
 
 
