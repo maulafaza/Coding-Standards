@@ -22,19 +22,21 @@ HTML5 spec links
 <li><a href="http://www.w3.org/TR/2011/WD-html5-20110525/scripting-1.html#the-script-element">Using script</a></li>
 </uL
 
-```
 <!-- External CSS --> 
+
+```
 <link rel="stylesheet" href="code-guide.css">
 ```
 
-```
 <!-- In-document CSS -->
+
+```
 <style>
   /* ... */
 </style>
 ```
 
-```
 <!-- JavaScript -->
+```
 <script src="code-guide.js"></script>
 ```
