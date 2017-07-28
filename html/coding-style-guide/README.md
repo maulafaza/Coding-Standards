@@ -15,7 +15,7 @@
 
 ### HTML Tags
 
-<sup>Status: **under discussion**</sup>
+<sup>Status: **under discussion**  | Following WordPress: no</sup>
 
 [@mdo](http://codeguide.co/#html) :
 <ul>
@@ -42,7 +42,7 @@
 
 ### Self-closing Elements
 
-<sup>Status: **under discussion**</sup>
+<sup>Status: **under discussion**  | Following WordPress: yes</sup>
 
 All tags must be properly closed. For tags that can wrap nodes such as text or other elements, termination is a trivial enough task. For tags that are self-closing, the forward slash should have exactly one space preceding it:
 
@@ -58,7 +58,7 @@ The W3C specifies that a single space should precede the self-closing slash [(so
 
 ### Attributes and Tags
 
-<sup>Status: **under discussion**</sup>
+<sup>Status: **under discussion**  | Following WordPress: yes</sup>
 
 All tags and attributes must be written in lowercase. Additionally, attribute values should be lowercase when the purpose of the text therein is only to be interpreted by machines. For instances in which the data needs to be human readable, proper title capitalization should be followed.
 
@@ -75,7 +75,7 @@ For humans:
 
 ### Quotes
 
-<sup>Status: **under discussion**</sup>
+<sup>Status: **under discussion**  | Following WordPress: yes</sup>
 
 According to the W3C specifications for XHTML, all attributes must have a value, and must use double- or single-quotes (source). The following are examples of proper and improper usage of quotes and attribute/value pairs.
 
@@ -98,7 +98,7 @@ In HTML, attributes do not all have to have values, and attribute values do not 
 
 ### Indentation
 
-<sup>Status: **under discussion**</sup>
+<sup>Status: **under discussion**  | Following WordPress: yes</sup>
 
 As with PHP, HTML indentation should always reflect logical structure. Use tabs and not spaces.
 
