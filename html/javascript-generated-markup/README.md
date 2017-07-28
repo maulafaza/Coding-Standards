@@ -1,4 +1,4 @@
-# Coding Style Guide
+# JavaScript Generated Markup
 
 *HTML JavaScript generated markup guide for Born Digital team*
 
