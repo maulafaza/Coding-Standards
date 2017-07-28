@@ -1,4 +1,4 @@
-# Coding Style Guide
+# Language Attribute
 
 *HTML language attribute guide for Born Digital team*
 
