@@ -10,7 +10,7 @@
 
 ### Shorthand notation
 
-<sup>Status: **under discussion** </sup>
+<sup>Status: **under discussion** | Following Wordpress: **under discussion** </sup>
 
 [@mdo:](http://codeguide.co/#html-reducing-markup) <br>
 Strive to limit use of shorthand declarations to instances where you must explicitly set all the available values. <br>
