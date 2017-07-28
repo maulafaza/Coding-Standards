@@ -1,4 +1,4 @@
-# Coding Style Guide
+# Reducing Markup
 
 *HTML reducing markup guide for Born Digital team*
 
