@@ -12,7 +12,7 @@
 
 <sup>Status: **under discussion** </sup>
 
-[@mdo:](http://codeguide.co/#html-style-script 
+[@mdo:](http://codeguide.co/#html-style-script) <br>
 Per HTML5 spec, typically there is no need to specify a type when including CSS and JavaScript files as text/css and text/javascript are their respective defaults.
 
 HTML5 spec links
