@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-  1. [PHP Tags](#php-tags)
+  1. [HTML Tags](#reducing-markup)
   
 ## Contents
 
