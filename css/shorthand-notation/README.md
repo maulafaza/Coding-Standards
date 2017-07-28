@@ -12,7 +12,7 @@
 
 <sup>Status: **under discussion** | Following Wordpress: **no** </sup>
 
-[@mdo:](http://codeguide.co/#html-reducing-markup) <br>
+[@mdo:](http://codeguide.co/#css-shorthand) <br>
 Strive to limit use of shorthand declarations to instances where you must explicitly set all the available values. <br>
 Common overused shorthand properties include: <br>
 
