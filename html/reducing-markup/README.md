@@ -10,9 +10,9 @@
 
 ### Reducing Markup
 
-<sup>Status: **unnder discussion** </sup>
+<sup>Status: **under discussion** </sup>
 
-<i>@MDO:</i> <br>
+<b> @MDO: </b>
 Whenever possible, avoid superfluous parent elements when writing HTML. <br>
 Many times this requires iteration and refactoring, but produces less HTML. <br>
 Take the following example:
