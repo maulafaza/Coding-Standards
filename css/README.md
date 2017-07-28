@@ -6,12 +6,12 @@ CSS
  * [Coding style guide](https://github.com/greenoss/Coding-Standards/tree/master/css/coding-style-guide/)
  * [Declaration order](https://github.com/greenoss/Coding-Standards/tree/master/css/declaration-order/)
  * [Don't use @import](https://github.com/greenoss/Coding-Standards/tree/master/css/dont-use-import/)
- * [IE compatibility Mode](https://github.com/greenoss/Coding-Standards/tree/master/css/ie-compatibility-mode/)
+ <!-- * [IE compatibility Mode](https://github.com/greenoss/Coding-Standards/tree/master/css/ie-compatibility-mode/) -->
  * [Media query placement](https://github.com/greenoss/Coding-Standards/tree/master/css/media-query-placement/)
  * [Prefixed properties](https://github.com/greenoss/Coding-Standards/tree/master/css/prefixed-properties/)
  * [Single declarations](https://github.com/greenoss/Coding-Standards/tree/master/css/single-declarations/)
  * [Shorthand notation](https://github.com/greenoss/Coding-Standards/tree/master/css/shorthand-notation/)
- * [Boolean attributes](https://github.com/greenoss/Coding-Standards/tree/master/css/boolean-attributes/)
+ <!-- * [Boolean attributes](https://github.com/greenoss/Coding-Standards/tree/master/css/boolean-attributes/) -->
  * [Nesting in Less and Sass](https://github.com/greenoss/Coding-Standards/tree/master/css/nesting-in-less-and-sass/)
  * [Operators in Less and Sass](https://github.com/greenoss/Coding-Standards/tree/master/css/operators-in-less-and-sass/)
  * [Comments](https://github.com/greenoss/Coding-Standards/tree/master/css/comments/)
