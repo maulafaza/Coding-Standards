@@ -13,7 +13,7 @@ HTML
  * [Attribute order](https://github.com/greenoss/Coding-Standards/tree/master/html/attribute-order/)
  * [Boolean attributes](https://github.com/greenoss/Coding-Standards/tree/master/html/boolean-attributes/)
  * [Reducing markup](https://github.com/greenoss/Coding-Standards/tree/master/html/reducing-markup/)
- * [JavaScript generated markup](https://github.com/greenoss/Coding-Standards/tree/master/html/javaScript-generated-markup/)
+ * [JavaScript generated markup](https://github.com/greenoss/Coding-Standards/tree/master/html/javascript-generated-markup/)
 
 #### References
 
