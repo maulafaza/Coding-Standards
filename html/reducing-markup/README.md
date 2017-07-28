@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-  1. [HTML Tags](#reducing-markup)
+  1. [Reducing Markup](#reducing-markup)
   
 ## Contents
 
