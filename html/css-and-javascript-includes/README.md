@@ -17,9 +17,9 @@ Per HTML5 spec, typically there is no need to specify a type when including CSS 
 
 HTML5 spec links
 <ul>
-<li>[@Using link](http://www.w3.org/TR/2011/WD-html5-20110525/semantics.html#the-link-element)</li>
-<li>[@Using style](http://www.w3.org/TR/2011/WD-html5-20110525/semantics.html#the-style-element)</li>
-<li>[@Using script](http://www.w3.org/TR/2011/WD-html5-20110525/scripting-1.html#the-script-element)</li>
+<li><a href="http://www.w3.org/TR/2011/WD-html5-20110525/semantics.html#the-link-element">Using link</a></li>
+<li><a href="http://www.w3.org/TR/2011/WD-html5-20110525/semantics.html#the-style-element">Using style</a></li>
+<li><a href="http://www.w3.org/TR/2011/WD-html5-20110525/scripting-1.html#the-script-element">Using script</a></li>
 </ul>
 
 <b> External CSS </b>
