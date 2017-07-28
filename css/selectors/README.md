@@ -25,7 +25,7 @@ Additional reading:
 <ul>
 <li>Scope CSS classes with prefixes</li>
 <li>Stop the cascade</li>
-<ul>
+</ul>
 
 ```
 /* Bad example */
