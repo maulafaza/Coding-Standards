@@ -12,7 +12,7 @@
 
 <sup>Status: **under discussion** </sup>
 
-<a href="http://codeguide.co/#html-lang">@MDO:</a> <br>
+[@mdo:](http://codeguide.co/#html-lang) <br>
 From the HTML5 spec:
 
 ```
