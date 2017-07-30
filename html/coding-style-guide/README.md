@@ -19,7 +19,6 @@
 
 [@mdo](http://codeguide.co/#html) :
 <ul>
-<li> Use soft tabs with two spaces—they're the only way to guarantee code renders the same in any environment. </li>
 <li> Nested elements should be indented once (two spaces). </li>
 <li> Always use double quotes, never single quotes, on attributes. </li>
 <li> Don't include a trailing slash in self-closing elements—the HTML5 spec says they're optional. </li>
@@ -98,9 +97,20 @@ In HTML, attributes do not all have to have values, and attribute values do not 
 
 ### Indentation
 
-<sup>Status: **under discussion**  | Following WordPress: yes</sup>
+<sup>Status: **under discussion**  | Following WordPress: partially</sup>
 
+---
+##### WordPress version:
 As with PHP, HTML indentation should always reflect logical structure. Use tabs and not spaces.
+
+##### [Code Guide version](http://codeguide.co/#html-syntax):
+Use soft tabs with two spaces—they're the only way to guarantee code renders the same in any environment.
+
+##### Bagus proposal:
+Very very important to match our goal of **Uniformity** and **Compatibility**, indentation must use space. Because space based indentation will look the same in any editor and any setting.
+
+Do not manual spacing the indentation. Instead, set the editor to use *Tab* key represents *4 spaces*. HTML indentation should be 4 spaces (using *Tab* button, not manually ;) pressing the "space") to match PHP coding style.
+---
 
 When mixing PHP and HTML together, indent PHP blocks to match the surrounding HTML code. Closing PHP blocks should match the same indentation level as the opening block.
 
@@ -131,12 +141,3 @@ Incorrect:
         </div>
 <?php endif; ?>
 ```
-
-
-
-
-
-
-
-
-  
