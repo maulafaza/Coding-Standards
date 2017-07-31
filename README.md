@@ -32,7 +32,7 @@ So that we can achieve our goals:
 
  * Idea, issue, & discussion: please submit issue
  * Pull request if you want to contribute about: code, word, formatting, & even language corrections
- * Before submitting issue/ discussion, please make sure you've read [WordPress Coding Standards](https://codex.wordpress.org/WordPress_Coding_Standards) and modern standards such as [PHP-FIG](http://www.php-fig.org/psr/) & [PHP The Right Way](http://www.phptherightway.com/)
+ * Before submitting issue/ discussion of topic (e.g: PHP or HTML), please make sure you've read their own references.
  * You may commit directly into **master** branch
 
  #### Todos:
