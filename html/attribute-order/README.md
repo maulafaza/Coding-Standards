@@ -12,15 +12,15 @@
 <sup>Status: **under discussion**</sup>
 
 HTML attributes should come in this particular order for easier reading of code.
-<ul>
-<li> class </li>
-<li> id, name </li>
-<li> data-* </li>
-<li> src, for, type, href, value </li>
-<li> title, alt </li>
-<li> role, aria-* </li>
-<li> Classes make for great reusable components, so they come first. Ids are more specific and should be used sparingly (e.g., for in-page bookmarks), so they come second. </li>
-</ul>
+
+* `class`
+* `id`, `name`
+* `data-*`
+* `src`, `for`, `type`, `href`, `value`
+* `title`, `alt`
+* `role`, `aria-*`
+
+Classes make for great reusable components, so they come first. Ids are more specific and should be used sparingly (e.g., for in-page bookmarks), so they come second.
 
 ```
 <a class="..." id="..." data-toggle="modal" href="#">
