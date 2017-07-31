@@ -1,6 +1,6 @@
 # Coding Style Guide
 
-The *requirement*, *recommendation*, *optional*, and *under discussion* status is by *convention*, based on HTML5 standard (so, not directly by HTML5 standard).
+The *requirement*, *recommendation*, *optional*, and *under discussion* status is by *convention*, based on HTML5 standard (so, not directly by HTML5 standard). The *correct, incorrect, wrong* words is also by convention, not by the HTML5 standard it-self.
 
 ## Table of Contents
 
