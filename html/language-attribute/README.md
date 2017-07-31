@@ -18,3 +18,9 @@ From the HTML5 spec:
 
 Read more about the <font color="red">lang</font> attribute <a href="http://www.w3.org/html/wg/drafts/html/master/semantics.html#the-html-element">in the spec</a>.<br>
 Head to Sitepoint for a <a href="http://reference.sitepoint.com/html/lang-codes">list of language codes</a>.
+
+```
+<html lang="en-us">
+    <!-- ... -->
+</html>
+```
