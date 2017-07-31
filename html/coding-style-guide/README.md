@@ -17,7 +17,7 @@
 
 <sup>Status: **under discussion**  | Following WordPress: no</sup>
 
-[@mdo](http://codeguide.co/#html) :
+[Code Guide version](http://codeguide.co/#html) :
 <ul>
 <li> Don't include a trailing slash in self-closing elements—the HTML5 spec says they're optional. </li>
 <li> Don’t omit optional closing tags (e.g. &lt;/li&gt; or &lt;/body&gt;). </li>
