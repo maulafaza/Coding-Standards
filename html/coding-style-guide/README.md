@@ -1,6 +1,6 @@
 # Coding Style Guide
 
-*HTML coding style guide for Born Digital team*
+The *requirement, recommendation, optional, and under-discussion* status is by *convention*, based on HTML5 standard (so, not directly by HTML5 standard).
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@
 
 <sup>Status: **under discussion**</sup>
 
-All tags must be properly closed. Don’t omit [optional closing tags](https://www.w3.org/TR/html5/syntax.html#optional-tags) (e.g. &lt;/li&gt; or &lt;/p&gt;).
+All tags must be properly closed. Don’t omit [optional closing tags](https://www.w3.org/TR/html5/syntax.html#optional-tags) (e.g. `</li>` or `</p>`).
 
 **Correct**
 ```
