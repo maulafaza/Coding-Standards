@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
-  1. [Attribute Order](#attribute-order)
+  1. [Introduction](#introduction)
 
 
 ## Contents
 
-### Attribute Order
+### Introduction
 
 <sup>Status: **under discussion**</sup>
 
