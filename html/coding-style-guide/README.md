@@ -116,7 +116,7 @@ Always use double quotes, never single quotes, on HTML attributes.
 
 ### Indentation
 
-<sup>Status: **under discussion**  | Following WordPress: partially</sup>
+<sup>Status: **under discussion**  | Following WordPress: no</sup>
 
 >
 >#### Discussions
