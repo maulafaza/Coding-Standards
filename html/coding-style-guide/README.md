@@ -67,7 +67,7 @@ All tags must be properly closed. Don’t omit [optional closing tags](https://w
 >
 >But maybe, our editor uses <tag /> style as autocomplete, or maybe our habbits use it.
 >
->Bagus wants to make this as really *optional*. He wants to ommit the closing tags (since it has no-effect on void elements) but his editor auto do this (but don't worry, Atom is editable :D).
+>Bagus wants to mark this as *optional*. He wants to ommit the closing tags (since it has no-effect on void elements) but his editor does auto-closing on this (but can be adjusted, Atom is editable :D).
 >
 
 
