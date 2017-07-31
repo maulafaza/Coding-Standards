@@ -108,7 +108,7 @@ Always use double quotes, never single quotes, on HTML attributes.
 >Use soft tabs with two spaces—they're the only way to guarantee code renders the same in any environment.
 
 >###### Bagus proposal:
->Very very important to match our goal of **Uniformity** and **Compatibility**, indentation must use space. Because space based indentation will look the same in any editor and any setting.
+>To match our goal of **Uniformity** and **Compatibility**, indentation must use spaces. Because space based indentation will look the same in any editor on any setting.
 
 >Do not manual spacing the indentation. Instead, set the editor to use *Tab* key represents *4 spaces*. HTML indentation should be 4 spaces (using *Tab* button, not manually ;) pressing the "space") to match PHP coding style.
 >
