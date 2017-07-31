@@ -19,7 +19,7 @@
 
 [Code Guide version](http://codeguide.co/#html) :
 <ul>
-<li> Don't include a trailing slash in self-closing elements—the HTML5 spec says they're optional. </li>
+<li>  </li>
 <li> Don’t omit optional closing tags (e.g. &lt;/li&gt; or &lt;/body&gt;). </li>
 </ul>
 
@@ -100,18 +100,19 @@ Always use double quotes, never single quotes, on HTML attributes.
 <sup>Status: **under discussion**  | Following WordPress: partially</sup>
 
 >
-##### Discussions
+>#### Discussions
 >###### WordPress version:
 >As with PHP, HTML indentation should always reflect logical structure. Use tabs and not spaces.
-
+>
 >###### [Code Guide version](http://codeguide.co/#html-syntax):
 >Use soft tabs with two spaces—they're the only way to guarantee code renders the same in any environment.
-
+>
 >###### Bagus proposal:
 >To match our goal of **Uniformity** and **Compatibility**, indentation must use spaces. Because space based indentation will look the same in any editor on any setting.
-
+>
 >Do not manual spacing the indentation. Instead, set the editor to use *Tab* key represents *4 spaces*. HTML indentation should be 4 spaces (using *Tab* button, not manually ;) pressing the "space") to match PHP coding style.
 >
+
 
 When mixing PHP and HTML together, indent PHP blocks to match the surrounding HTML code. Closing PHP blocks should match the same indentation level as the opening block.
 
