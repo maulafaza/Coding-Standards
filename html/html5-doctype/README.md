@@ -1,7 +1,5 @@
 # HTML5 doctype
 
-*HTML HTML5 doctype guide for Born Digital team*
-
 ## Table of Contents
 
   1. [HTML5 doctype](#introduction)
