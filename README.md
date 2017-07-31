@@ -35,7 +35,7 @@ So that we can achieve our goals:
  * Before submitting issue/ discussion of topic (e.g: PHP or HTML), please make sure you've read their own references.
  * You may commit directly into **master** branch
 
- #### Todos:
+#### Todos:
 
  * [ ] Add JavaScript standards
  * [ ] Add security standards
