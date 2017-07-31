@@ -101,13 +101,13 @@ Always use double quotes, never single quotes, on HTML attributes.
 
 >
 >#### Discussions
->###### WordPress version:
+>###### WordPress version (tab):
 >As with PHP, HTML indentation should always reflect logical structure. Use tabs and not spaces.
 >
->###### [Code Guide version](http://codeguide.co/#html-syntax):
+>###### [Code Guide version](http://codeguide.co/#html-syntax) (tab button represent 2 spaces):
 >Use soft tabs with two spaces—they're the only way to guarantee code renders the same in any environment.
 >
->###### Bagus proposal:
+>###### Bagus proposal (tab button represent 4 spaces):
 >To match our goal of **Uniformity** and **Compatibility**, indentation must use spaces. Because space based indentation will look the same in any editor on any setting.
 >
 >Do not manual spacing the indentation. Instead, set the editor to use *Tab* key represents *4 spaces*. HTML indentation should be 4 spaces (using *Tab* button, not manually ;) pressing the "space") to match PHP coding style.
