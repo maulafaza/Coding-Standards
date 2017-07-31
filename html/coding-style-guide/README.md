@@ -64,8 +64,7 @@ All tags must be properly closed. Don’t omit [optional closing tags](https://w
 >The HTML 5 spec says: "_Then, if the element is one of the void elements, or if the element is a foreign element, then there may be a single U+002F SOLIDUS character (/). This character has no effect on void elements, but on foreign elements it marks the start tag as self-closing._"
 >
 >Optional is optional (not even a recommendation) which means you can whether say "Yes" or "No". The trailing slash has no effect on: `area, base, br, col, command, embed, hr, img, input, keygen, link, meta, param, source, track, wbr` tags.
->
->But maybe, our editor uses <tag /> style as autocomplete, or maybe our habbits use it.
+>But maybe, our editor uses <tag /> style as auto-closing, or maybe our habbits use it.
 >
 >Bagus wants to mark this as *optional*. He wants to ommit the closing tags (since it has no-effect on void elements) but his editor does auto-closing on this (but can be adjusted, Atom is editable :D).
 >
