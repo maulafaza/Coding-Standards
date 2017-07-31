@@ -60,7 +60,7 @@ All tags must be properly closed. Don’t omit [optional closing tags](https://w
 >###### [Code Guide version](http://codeguide.co/#html-syntax) (using [HTML 5 source](https://dev.w3.org/html5/spec-author-view/syntax.html#syntax-start-tag) as reference):
 >Don't include a trailing slash in self-closing elements—the [HTML5 spec](https://dev.w3.org/html5/spec-author-view/syntax.html#syntax-start-tag) says they're optional.
 >
->###### Discussion proposal (Think about practical & readability):
+>###### Discussion proposal (consider about practical & readability):
 >The HTML 5 spec says: "_Then, if the element is one of the void elements, or if the element is a foreign element, then there may be a single U+002F SOLIDUS character (/). This character has no effect on void elements, but on foreign elements it marks the start tag as self-closing._"
 >
 >Optional is optional (not even a recommendation) which means you can whether say "Yes" or "No". The trailing slash has no effect on: `area, base, br, col, command, embed, hr, img, input, keygen, link, meta, param, source, track, wbr` tags.
