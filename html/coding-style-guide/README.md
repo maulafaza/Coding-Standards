@@ -15,42 +15,58 @@
 
 ### HTML Tags
 
-<sup>Status: **under discussion**  | Following WordPress: no</sup>
+<sup>Status: **under discussion**</sup>
 
-[Code Guide version](http://codeguide.co/#html) :
+All tags must be properly closed. Don’t omit [optional closing tags](https://www.w3.org/TR/html5/syntax.html#optional-tags) (e.g. &lt;/li&gt; or &lt;/p&gt;).
+
+**Correct**
+```
 <ul>
-<li>  </li>
-<li> Don’t omit optional closing tags (e.g. &lt;/li&gt; or &lt;/body&gt;). </li>
+    <li>First</li>
+    <li>Second</li>
 </ul>
 
+<article>
+    <p>First</p>
+    <p>Second</p>
+</article>
 ```
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Page title</title>
-  </head>
-  <body>
-    <img src="images/company-logo.png" alt="Company">
-    <h1 class="hello-world">Hello, world!</h1>
-  </body>
-</html>
+
+**Incorrect**
+```
+<ul>
+    <li>First
+    <li>Second
+</ul>
+
+<article>
+    <p>First
+    <p>Second
+</article>
 ```
 
 
 ### Self-closing Elements
 
-<sup>Status: **under discussion**  | Following WordPress: yes</sup>
+<sup>Status: **under discussion**  | Following WordPress: -</sup>
 
-All tags must be properly closed. For tags that can wrap nodes such as text or other elements, termination is a trivial enough task. For tags that are self-closing, the forward slash should have exactly one space preceding it:
-
-```
-<br />;
-```
-rather than the compact but incorrect:
-```
-<br/>;
-```
-The W3C specifies that a single space should precede the self-closing slash [(source)](https://www.w3.org/TR/xhtml1/#C_2).
+>
+>#### Discussions
+>###### WordPress version (using old [2002th XHTML 1 source](https://www.w3.org/TR/xhtml1/#C_2) as reference):
+>All tags must be properly closed. For tags that are self-closing, the forward slash should have exactly one space preceding it: `<br />` instead of `<br/>`
+>
+>###### [Code Guide version](http://codeguide.co/#html-syntax) (using [HTML 5 source](https://dev.w3.org/html5/spec-author-view/syntax.html#syntax-start-tag) as reference):
+>Don't include a trailing slash in self-closing elements—the [HTML5 spec](https://dev.w3.org/html5/spec-author-view/syntax.html#syntax-start-tag) says they're optional.
+>
+>###### Discussion proposal (Think about practical & readability):
+>The HTML 5 spec says: "_Then, if the element is one of the void elements, or if the element is a foreign element, then there may be a single U+002F SOLIDUS character (/). This character has no effect on void elements, but on foreign elements it marks the start tag as self-closing._"
+>
+>Optional is optional (not even a recommendation) which means you can whether say "Yes" or "No". The trailing slash has no effect on: `area, base, br, col, command, embed, hr, img, input, keygen, link, meta, param, source, track, wbr` tags.
+>
+>But our editor maybe use <tag /> as autocomplete, or maybe our habbits use it.
+>
+>Bagus wants make this as really *optional*. He wants to ommit the closing tags (since it has no-effect on void elements) but his editor auto do this (but don't worry, Atom is editable :D).
+>
 
 
 ### Attributes and Tags
