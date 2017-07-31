@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-  1. [HTML5 doctype](#introduction)
+  1. [Introduction](#introduction)
 
 ## Contents
 
