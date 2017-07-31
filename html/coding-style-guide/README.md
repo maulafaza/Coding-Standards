@@ -65,7 +65,7 @@ All tags must be properly closed. Don’t omit [optional closing tags](https://w
 >
 >Optional is optional (not even a recommendation) which means you can whether say "Yes" or "No". The trailing slash has no effect on: `area, base, br, col, command, embed, hr, img, input, keygen, link, meta, param, source, track, wbr` tags.
 >
->But our editor maybe use <tag /> as autocomplete, or maybe our habbits use it.
+>But maybe, our editor uses <tag /> style as autocomplete, or maybe our habbits use it.
 >
 >Bagus wants make this as really *optional*. He wants to ommit the closing tags (since it has no-effect on void elements) but his editor auto do this (but don't worry, Atom is editable :D).
 >
