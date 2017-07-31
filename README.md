@@ -40,5 +40,5 @@ So that we can achieve our goals:
  * [ ] Add JavaScript standards
  * [ ] Add security standards
  * [ ] Add page speed guide
- * [ ] Add automatic checker such as in Code Sniffer
+ * [ ] Add automatic checker such as in *Code Sniffer*
  * [ ] Add linter for editors
