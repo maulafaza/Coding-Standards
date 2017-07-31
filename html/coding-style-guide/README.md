@@ -68,6 +68,8 @@ All tags must be properly closed. Don’t omit [optional closing tags](https://w
 >
 >Bagus wants to mark this as *optional*. He wants to ommit the closing tags (since it has no-effect on void elements) but his editor does auto-closing on this (but can be adjusted, Atom is editable :D).
 >
+>Let's discuss this... what do you think?
+>
 
 
 ### Attributes and Tags
