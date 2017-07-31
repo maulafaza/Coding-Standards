@@ -1,7 +1,5 @@
 # Language Attribute
 
-*HTML practicality over purity guide for Born Digital team*
-
 ## Table of Contents
 
   1. [Introduction](#introduction)

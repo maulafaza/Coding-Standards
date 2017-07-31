@@ -8,7 +8,7 @@
 
 ### Introduction
 
-<sup>Status: **under discussion** </sup>
+<sup>Status: **under discussion**</sup>
 
 From the HTML5 spec:
 >Authors are encouraged to specify a lang attribute on the root html element, giving the document's language.

@@ -1,19 +1,15 @@
 # Attribute Order Guide
 
-*HTML attribute order guide for Born Digital team*
-
 ## Table of Contents
 
   1. [Attribute Order](#attribute-order)
-  
-  
+
+
 ## Contents
 
 ### Attribute Order
 
-<sup>Status: **under discussion** </sup>
-
-[@mdo:](http://codeguide.co/#html-attribute-order)
+<sup>Status: **under discussion**</sup>
 
 HTML attributes should come in this particular order for easier reading of code.
 <ul>

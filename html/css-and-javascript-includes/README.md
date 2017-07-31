@@ -8,7 +8,7 @@
 
 ### Introduction
 
-<sup>Status: **under discussion** </sup>
+<sup>Status: **under discussion**</sup>
 
 Per HTML5 spec, typically there is no need to specify a type when including CSS and JavaScript files as text/css and text/javascript are their respective defaults.
 

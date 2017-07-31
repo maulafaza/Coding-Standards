@@ -1,18 +1,15 @@
 # Reducing Markup
 
-*HTML reducing markup guide for Born Digital team*
-
 ## Table of Contents
 
-  1. [Reducing Markup](#reducing-markup)
-  
+  1. [Introduction](#introduction)
+
 ## Contents
 
-### Reducing Markup
+### Introduction
 
-<sup>Status: **under discussion** | Following WordPress: **no** </sup>
+<sup>Status: **under discussion**</sup>
 
-[@mdo:](http://codeguide.co/#html-reducing-markup) <br>
 Whenever possible, avoid superfluous parent elements when writing HTML. <br>
 Many times this requires iteration and refactoring, but produces less HTML. <br>
 Take the following example:
@@ -20,7 +17,7 @@ Take the following example:
 ```
 <!-- Not so great -->
 <span class="avatar">
-  <img src="...">
+    <img src="...">
 </span>
 
 <!-- Better -->

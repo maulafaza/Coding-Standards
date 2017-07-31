@@ -1,19 +1,15 @@
 # Boolean Attributes
 
-*HTML boolean attributes guide for Born Digital team*
-
 ## Table of Contents
 
-  1. [Boolean Attributes](#boolean-attributes)
-  
-  
+  1. [Introduction](#introduction)
+
+
 ## Contents
 
 ### Boolean Attributes
 
-<sup>Status: **under discussion** </sup>
-
-[@mdo:](http://codeguide.co/#html-boolean-attributes)
+<sup>Status: **under discussion**</sup>
 
 A boolean attribute is one that needs no declared value. XHTML required you to declare a value, but HTML5 has no such requirement.
 
@@ -33,7 +29,6 @@ In short, don't add a value. </i>
 <input type="checkbox" value="1" checked>
 
 <select>
-  <option value="1" selected>1</option>
+    <option value="1" selected>1</option>
 </select>
 ```
-
