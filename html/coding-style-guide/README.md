@@ -17,7 +17,7 @@ The **requirement**, **recommendation**, **optional**, and **under discussion** 
 
 ### HTML Tags
 
-<sup>Status: **under discussion**</sup>
+<sup>Status: **under discussion**  | Following WordPress: yes</sup>
 
 All tags must be properly closed. Don’t omit [optional closing tags](https://www.w3.org/TR/html5/syntax.html#optional-tags) (e.g. `</li>` or `</p>`).
 
