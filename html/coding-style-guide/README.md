@@ -52,7 +52,7 @@ All tags must be properly closed. Don’t omit [optional closing tags](https://w
 
 >
 >#### Discussions
->###### WordPress version (using old [2002th XHTML 1 source](https://www.w3.org/TR/xhtml1/#C_2) as reference):
+>###### WordPress version (using [2002th XHTML 1 source](https://www.w3.org/TR/xhtml1/#C_2) as reference):
 >All tags must be properly closed. For tags that are self-closing, the forward slash should have exactly one space preceding it: `<br />` instead of `<br/>`
 >
 >###### [Code Guide version](http://codeguide.co/#html-syntax) (using [HTML 5 source](https://dev.w3.org/html5/spec-author-view/syntax.html#syntax-start-tag) as reference):
